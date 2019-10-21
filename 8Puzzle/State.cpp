@@ -19,7 +19,6 @@ void State::Update(int moved)
 	move = moved;
 	path.push_back(moved);
 	g += 1;
-
 }
 
 

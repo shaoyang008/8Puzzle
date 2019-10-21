@@ -1,7 +1,5 @@
 #include "Puzzle.h"
 
-
-
 Puzzle::Puzzle()
 {
 	_board[0][0] = 1;
